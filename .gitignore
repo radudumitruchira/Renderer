@@ -1,0 +1,5 @@
+*.exe
+*.obj
+.vs
+.vscode
+build
